@@ -25,7 +25,7 @@ const Contact = () => {
   }
 
   useEffect(() => {
-    document.title = "Contact with Manik"
+    document.title = "Contact with Asma"
   }, []);
 
 
@@ -98,28 +98,28 @@ const Contact = () => {
               <li>
                 <div className="media align-items-center"><span className="info-icon"></span>
                   <div className={classes.infoList}>
-                    <h6 className="info-type">Name</h6><span className="info-value">Manik Roy</span>
+                    <h6 className="info-type">Name</h6><span className="info-value">Asma Noor</span>
                   </div>
                 </div>
               </li>
               <li>
                 <div className="media align-items-center"><span className="info-icon"><i className="icon ion-md-map"></i></span>
                   <div className={classes.infoList}>
-                    <h6 className="info-type">Location</h6><span className="info-value">Dinajpur, Bangladesh</span>
+                    <h6 className="info-type">Location</h6><span className="info-value">Karachi, Pakistan</span>
                   </div>
                 </div>
               </li>
               <li>
                 <div className="media align-items-center"><span className="info-icon"><i className="icon ion-md-call"></i></span>
                   <div className={classes.infoList}>
-                    <h6 className="info-type">Call Me</h6><span className="info-value"><a href="tel:+8801780849889">+88 01780849889</a></span>
+                    <h6 className="info-type">Call Me</h6><span className="info-value"><a href="tel:+923112942756">+92 3112942756</a></span>
                   </div>
                 </div>
               </li>
               <li>
                 <div className="media align-items-center"><span className="info-icon"><i className="icon ion-md-send"></i></span>
                   <div className={classes.infoList}>
-                    <h6 className="info-type">Email Me</h6><span className="info-value"><a href="mailto:cm.dpi15@gmail.com">cm.dpi15@gmail.com</a></span>
+                    <h6 className="info-type">Email Me</h6><span className="info-value"><a href="asmaashraf496@gmail.com">asmaashraf496@gmail.com</a></span>
                   </div>
                 </div>
               </li>

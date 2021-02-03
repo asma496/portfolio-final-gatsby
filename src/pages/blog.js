@@ -4,7 +4,7 @@ import Person from '../components/indexdata'
 
 const Blog = () => {
   useEffect(() => {
-    document.title = "Blog- Manik"
+    document.title = "Blog- Asma"
   }, []);
 
   return (

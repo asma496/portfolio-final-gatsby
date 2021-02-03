@@ -6,7 +6,7 @@ import Person from '../components/indexdata'
 
 export default () => {
   useEffect(() => {
-    document.title = "Manik Roy"
+    document.title = "Asma Noor"
   }, []);
   return (
     <div className="container">
@@ -16,7 +16,7 @@ export default () => {
             <div data-sal="zoom-in"
               data-sal-delay="400"
               data-sal-easing="ease">
-              <img className="rounded-circle w-50 m-auto" id="imggg" src={Person.img} alt="manik roy" />
+              <img className="rounded-circle w-50 m-auto" id="imggg" src={Person.img} alt="Asma Noor" />
             </div>
           </div>
         </div>

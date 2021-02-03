@@ -11,8 +11,8 @@ const Footer = () => {
               <div>
                 <div className="copyright-text">
                   <p>© {new Date().getFullYear()}
-                    <a href="https://facebook.com/manikroy89" target="_blank" rel="noopener noreferrer"> Manik Roy</a>. All rights reserved. Created by
-                <a href="https://facebook.com/manikroy89" target="_blank" rel="noopener noreferrer"> Manik</a>
+                    <a href="https://facebook.com/manikroy89" target="_blank" rel="noopener noreferrer"> Asma Noor</a>. All rights reserved. Created by
+                <a href="https://facebook.com/manikroy89" target="_blank" rel="noopener noreferrer"> Asma</a>
                   </p>
                 </div>
               </div>
@@ -31,7 +31,7 @@ const Footer = () => {
                       <Link className="nav-link" to="/about">About</Link>
                     </li>
                     <li className="nav-item">
-                      <Link className="nav-link " to="/portfolio">Portfolio</Link>
+                      <Link className="nav-link " to="/portfolio">Projects</Link>
                     </li>
                     <li className="nav-item">
                       <Link className="nav-link " to="/contact">Contact</Link>

@@ -4,7 +4,7 @@ import classes from './about.module.css'
 
 const About = () => {
   useEffect(() => {
-    document.title = "About- Manik"
+    document.title = "About- Asma"
   }, []);
 
   return (
@@ -18,7 +18,7 @@ const About = () => {
                 data-sal-delay="400"
                 data-sal-easing="ease"
                 className={`${classes.portfolioImageContainer}  shadow`}>
-                <img className="w-100 m-auto" src="https://i.ibb.co/sJwhmKs/port2.png" alt="manik roy" />
+                <img className="w-100 m-auto" src="https://i.pinimg.com/736x/36/11/d4/3611d49ef7346849d29747312131dfc6.jpg" alt="asma noor" />
               </div>
             </div>
             <div className="col-md-6">
@@ -37,7 +37,7 @@ const About = () => {
                     <li><strong>Languages</strong> {Person.languages}</li>
                     <li><strong>Address</strong> {Person.address}</li>
                     <li><strong>Freelance</strong> {Person.freelance}</li>
-                    <li><strong>E-mail</strong> <a href="mailto:cm.dpi15@gmail.com">{Person.email}</a> </li>
+                    <li><strong>E-mail</strong> <a href="asmaashraf496@gmail.com">{Person.email}</a> </li>
                     <li><strong>Phone</strong> {Person.phone}</li>
                   </ul>
                   <button className="text-uppercase"> <a href="http://freepdfhosting.com/73a1f9ce2e.pdf" rel="noopener noreferrer" target="_blank"> Download cv</a></button>

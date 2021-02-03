@@ -1,15 +1,15 @@
 
 const Person = {
-  name: 'Manik Roy',
+  name: 'Asma Noor',
   age: 22,
-  nationality: 'Bangladeshi',
-  languages: 'Bengali, English',
-  address: 'Dhaka, Bangladesh',
+  nationality: 'Pakistani',
+  languages: 'Urdu, English',
+  address: 'Karachi, Pakistan',
   freelance: 'Available',
-  email: 'cm.dpi15@gmail.com',
-  phone: '+8801780849889',
-  img: 'https://avatars2.githubusercontent.com/u/61227408?s=460&u=543b9f8c7ace424d9deff44ae78cd99707c13382&v=4',
-  description: 'I am a frontend web developer. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.',
+  email: 'asmaashraf496@gmail.com',
+  phone: '+923112942756',
+  img: 'https://i.pinimg.com/564x/41/ee/af/41eeaf3b077ffb897e407d8967477ce1.jpg',
+  description: 'I am a full stack developer. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.',
   socials: [
     { facebook: 'https://facebook.com/manikroy89', icon: 'faFacebookF' },
     { github: 'https://github.com/manik89', icon: 'faGithub' },

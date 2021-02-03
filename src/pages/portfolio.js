@@ -6,7 +6,7 @@ import Person from '../components/indexdata'
 
 const Portfolio = () => {
   useEffect(() => {
-    document.title = "Portfolio- Manik"
+    document.title = "Projects- Asma"
   }, []);
   return (
     <div className="container pt-2 portfolio-area">

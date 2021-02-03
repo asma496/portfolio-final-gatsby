@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-  <a href="https://manikroy.netlify.app/">
-    <img alt="manikroy" src="https://i.ibb.co/RDJ0Q37/image.png" width="600px" />
+  <!-- <a href="https://manikroy.netlify.app/"> -->
+    <img alt="asma" src="https://i.pinimg.com/564x/41/ee/af/41eeaf3b077ffb897e407d8967477ce1.jpg" width="600px" />
   </a>
 </p>
 <h1 align="center">

@@ -36,7 +36,7 @@
 
 .portfolioImageContainer::before {
   position: absolute;
-  height: 35%;
+  height: 10%;
   width: 25px;
   content: "";
   background-color: #46798d;
@@ -47,7 +47,7 @@
 
 .portfolioImageContainer::after {
   position: absolute;
-  height: 35%;
+  height: 10%;
   width: 25px;
   content: "";
   background-color: #8b7b9c;
